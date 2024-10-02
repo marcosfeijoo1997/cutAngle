@@ -1,0 +1,48 @@
+.index {
+    display: flex;
+    list-style: none;
+    list-style: none;
+    position: relative;
+}
+
+.image-container {
+    position: relative;
+    display: flex;
+    width: 50%; /* O el ancho que desees */
+    max-width: 600px; /* Opcional, para controlar el tamaño */
+  }
+  .image-container img {
+    width: 100%;
+    height: auto;
+  }
+
+  .AngleC {
+    position: relative;
+    top: -17%;
+    left: 11%;
+
+    color: rgb(0, 0, 0); /* Color del texto */
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra para mayor legibilidad */
+  }
+  .AngleD {
+    position: relative;
+    top: -78%;
+    left: 48%;
+
+    color: rgb(0, 0, 0); /* Color del texto */
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra para mayor legibilidad */
+  }
+  .Large {
+    position: relative;
+    top: -78%;
+    left: 48%;
+
+    color: rgb(0, 0, 0); /* Color del texto */
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra para mayor legibilidad */
+  }
